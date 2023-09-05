@@ -1,5 +1,9 @@
 h1 {
     text-align: center;
-    color:blue;
+    color:rgb(10, 10, 10);
     text-transform: uppercase;
+}
+
+body {
+    background-color: black;
 }
